@@ -1,6 +1,6 @@
 # Repositório de WAUIS
 
-##Desafio de Projeto Git/Github
+## Desafio de Projeto Git/Github
 
-###Links úteis
+### Links úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
